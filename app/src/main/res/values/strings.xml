@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">PiperCompr</string>
+    <string name="original">Original</string>
+    <string name="compressed">Compressed</string>
+    <string name="camera">From Camera</string>
+    <string name="gallery">From Gallery</string>
+    <string name="toCompress">Compress</string>
+</resources>
